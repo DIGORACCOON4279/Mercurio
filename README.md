@@ -1,5 +1,5 @@
 # MercurioGUI
-Prueba Solati SAS -La app se le demomino Mercurio-
+Prueba Solati SAS -La app se le denomino Mercurio-
 
 Aplicación web para llevar registros empresariales desde el user administrador y gestor.
 
