@@ -2,6 +2,8 @@
 
 :root{
 
+  /* letter family */
+
     --paragraph: 20px;
     --title-paragraph-card: 14px;
 
@@ -12,4 +14,9 @@
     --bold: 600;
     --medium:400;
     --light: 300;
+
+    /* font family */
+
+    --logo: 'Eagle Lake', cursive;
+    --font-family: 'Poppins', sans-serif;
 }
