@@ -18,6 +18,7 @@
   padding:  0px 25px;
 }
 .container-navbar .user .register{
+  font-size: var(--content);
   color: var(--title-subtitle);
   margin: 0 15px;
   text-decoration: none;
