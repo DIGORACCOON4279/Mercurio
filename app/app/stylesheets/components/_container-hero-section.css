@@ -6,8 +6,6 @@
   width: 100vw;
   height: inherit;
   position: relative;
-  background-color: linear-gradient(var(--opacity));
-
 }
 .container-hero-section .hero-section-content{
   width: 65%;
@@ -45,7 +43,7 @@
   text-decoration: none;
   transition: all .5s;
   }
-  .container-hero-section .hero-section-content .btns .demo:hover{
-    color:var(--red) ;
-    background:  var(--letter-cta-demo);
-  }
+.container-hero-section .hero-section-content .btns .demo:hover{
+  color:var(--red) ;
+  background:  var(--letter-cta-demo);
+}

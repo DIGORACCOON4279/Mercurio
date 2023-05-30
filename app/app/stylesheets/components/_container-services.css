@@ -1,6 +1,8 @@
 .container-services{
   width: 100%;
   height:auto;
+  background-color: var(--red-light);
+
 }
 .container-services .box-services{
   width: 65%;
@@ -9,14 +11,27 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 0 auto;
+  margin:  0px auto;
 }
-.container-services .subtitle{
-  color:var();
-
+.container-services .box-services .subtitle{
+  color: var(--title-subtitle);
+  font-size: var(--sub-title-section);
+  font-weight:  var(--light);
+  padding: 100px 0px;
 }
-
-.container-services .cards-services{
+.container-services .box-services .cards-services{
   display: flex;
-
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.container-services .box-services .cards-services .items{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container-services .box-services .cards-services .items .item{
+  width: 70px;
+  height: 70px;
 }
