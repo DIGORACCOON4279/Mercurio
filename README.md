@@ -1,6 +1,6 @@
 <div align="center">
 
-![proyecto mercurio -reducido](https://github.com/DIGORACCOON4279/MercurioGUI/assets/88150970/6ac7f31e-773a-4d5f-ac1a-0298c306934a)
+![proyecto mercurio 1](https://github.com/DIGORACCOON4279/MercurioGUI/assets/88150970/7e71e18e-9f0e-4775-885c-61cbbc41e93f)
 
 </div> 
   
