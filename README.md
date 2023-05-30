@@ -1,4 +1,8 @@
-# MercurioGUI
+
+
+![proyecto mercurio 1](https://github.com/DIGORACCOON4279/MercurioGUI/assets/88150970/d4b13b0c-4d68-4d4e-9f61-94a1b39495a6)
+
+# Mercurio-Project
 Prueba Solati SAS -La app se le denomino Mercurio-
 
 Aplicación web para llevar registros empresariales desde el user administrador y gestor.
