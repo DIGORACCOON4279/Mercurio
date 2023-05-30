@@ -8,14 +8,16 @@
     --title-paragraph-card: 14px;
 
     --title: 55px;
-    --subtitle: 45px;
-    --content: 16px;
+    --subtitle: 25px;
+    --content: 14px;
+
+  /* font-weight */
 
     --bold: 600;
     --medium:400;
     --light: 300;
 
-    /* font family */
+  /* font family */
 
     --logo: 'Eagle Lake', cursive;
     --font-family: 'Poppins', sans-serif;

@@ -1,0 +1,27 @@
+.container-hero-section{
+  width: 100%;
+  height:auto;
+
+}
+.container-hero-section .pic4{
+  width: 100vw;
+  height: inherit;
+  position: relative;
+  background-color: linear-gradient(var(--opacity));
+
+}
+.container-hero-section .hero-section-content{
+  width: 65%;
+  position: absolute;
+  top: 60%;
+  left: 10%;
+}
+.container-hero-section .hero-section-content .title{
+  color: var(--letter-cta-demo);
+  font-size: var(--title);
+  font-family: var(--font-family);
+  font-weight: var(--light);
+}
+.container-hero-section .hero-section-content .btns{
+
+}
