@@ -52,11 +52,11 @@
   text-decoration: none;
 }
 .container-navbar .items-links .logo .logoz{
-  width: 10%;
-  height: 10%;
+  width: 30px;
+  height: 30px;
 }
 .container-navbar .items-links .logo .mercurio{
-  font-size: 40px;
+  font-size: 30px;
   font-family: var(--logo);
   color: var(--red);
 }
