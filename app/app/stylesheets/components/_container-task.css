@@ -1,6 +1,11 @@
 .container-task{
   width: 100%;
   height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 230px 0px;
 }
 .container-task .section-tasks{
   width:100%;
@@ -9,7 +14,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 230px 0px;
+
 }
 .container-task .section-tasks .pic1{
   width: 55%;
@@ -53,4 +58,17 @@
   color: var(--title-content);
   font-size: var(--content);
   font-weight:  var(--medium);
+}
+.container-task .demo{
+  padding: 20px 100px;
+  background-color: var(--red);
+  font-size: var(--subtitle);
+  color: var(--letter-cta-demo);
+  text-decoration: none;
+  transition: all .5s;
+  margin-top: 80px;
+}
+.container-task .demo:hover{
+  background-color: var(--red-light);
+  color: var(--red);
 }
