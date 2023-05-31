@@ -45,3 +45,14 @@
   text-align: left;
   margin: 20px 30px;
 }
+.container-testimonios .testimonies .card-testimony .social-media{
+  width:24px;
+  height:24px;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0px 5px;
+  position: absolute;
+  bottom: 10px;
+  right: 30px;
+}
