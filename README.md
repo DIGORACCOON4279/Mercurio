@@ -14,6 +14,7 @@ Se realizo bajo la metodología Design Sprint en tablero notion. Los links del e
 
 👉Link  </br>
 🚀Proyecto
+[Mercurio](https://proyecto-mercurio.vercel.app/)</br>
 
 
 ![logo marca - reducida](https://github.com/DIGORACCOON4279/MercurioGUI/assets/88150970/e8492f0f-bf40-4810-ab83-fea9f0dfe61e)
